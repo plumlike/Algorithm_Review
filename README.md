@@ -14,6 +14,8 @@
 10. [FORTRESS](https://algospot.com/judge/problem/read/FORTRESS)
 11. [NERD2](https://algospot.com/judge/problem/read/NERD2)
 12. [RUNNINGMEDIAN](https://algospot.com/judge/problem/read/RUNNINGMEDIAN)
+13. [CLOCKSYNC](https://algospot.com/judge/problem/read/CLOCKSYNC)
+14. [FANMEETING](https://algospot.com/judge/problem/read/FANMEETING)
 
 
 ## Namespace
@@ -30,6 +32,9 @@
 - MoonHyuk (godmoon00@naver.com)
 - NaYoon(Nayoon3136@gmail.com)
 - SungWon(lyusungwon@naver.com)
+- SeonBeen(SunProg)
+- JiEun(plumlike@gmail.com)
+- BoYee(boiihong)
 
 ## License
 ~~그런거 안 키운다.~~
